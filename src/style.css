@@ -1,0 +1,11 @@
+.react-confetti-canvas {
+    position: absolute;
+    left: 0;
+    top: 0;
+    transition: opacity 1s ease-in-out;
+    opacity: 1;
+}
+
+.react-confetti-canvas.fade-out {
+    opacity: 0;
+}

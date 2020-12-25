@@ -1,1 +1,1 @@
-export { Base } from './Base'
+export { ConfettiCanvas } from './ConfettiCanvas'

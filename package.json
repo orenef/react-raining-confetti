@@ -1,9 +1,10 @@
 {
-  "name": "react-typescript-rollup-parcel-template",
+  "name": "react-raining-confetti",
   "version": "1.0.0",
-  "description": "Base template",
+  "description": "React component for adding raining confetti to your application",
   "main": "build/index.js",
   "module": "build/index.es.js",
+  "keywords": ["react", "confetti"],
   "scripts": {
     "start": "parcel --out-dir playground-build ./src/playground/index.html",
     "test": "echo \"Error: no test specified\" && exit 1",
