@@ -2,13 +2,13 @@
 
 react-raining-confetti is a react base component that add raining confetti to your application using canvas. with zero dependencies.
 
-codesandbox demo -> [Demo]()
+codesandbox demo -> [Demo](https://codesandbox.io/s/react-raining-confetti-di1zq)
 ## Installation
 
-Use the package manager [npm]() to install .
+Use the package manager [npm](https://www.npmjs.com/package/react-raining-confetti) to install .
 
 ```bash
-npm install 
+npm i react-raining-confetti 
 ```
 
 ## Usage
