@@ -1,8 +1,9 @@
 # react-raining-confetti
+![npm](https://img.shields.io/npm/v/react-raining-confetti) ![npm bundle size](https://img.shields.io/bundlephobia/min/react-raining-confetti) ![GitHub top language](https://img.shields.io/github/languages/top/orenef/react-raining-confetti) ![npm](https://img.shields.io/npm/dt/react-raining-confetti) ![NPM](https://img.shields.io/npm/l/react-raining-confetti) ![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/orenef/react-raining-confetti)
 
 react-raining-confetti is a react base component that add raining confetti to your application using canvas. with zero dependencies.
 
-codesandbox demo -> [Demo](https://codesandbox.io/s/react-raining-confetti-di1zq)
+[See demo at codesandbox](https://codesandbox.io/s/react-raining-confetti-di1zq)
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/package/react-raining-confetti) to install .
